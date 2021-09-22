@@ -104,7 +104,6 @@ python manage.py test
 
 ## Live demo
 ### Front-end
-- [https://jakhax.github.io/smart-home/](https://jakhax.github.io/smart-home/)
 - Use this creds to login
     * username:`testuser`
     * password: `testuser`
@@ -114,7 +113,6 @@ python manage.py test
 
 ## Contributing
 
-- Git clone [https://github.com/jakhax/smart-home.git](https://github.com/jakhax/smart-home.git) 
 - Make the changes.
 - Write your tests.
 - If everything is OK. push your changes and make a pull request.
